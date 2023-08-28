@@ -2,6 +2,8 @@
 
 A tool to analyze the performance of various ETFs based on historical data.
 
+![image](https://github.com/rodrigofmcarvalho/etf_performance/assets/96849660/b492fec8-58cb-4e99-969e-1f454403e29b)
+
 ## Table of Contents
 
 - [Features](#features)
